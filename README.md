@@ -11,5 +11,5 @@ This setup can be achieved by
 
 ## Open Points
 
-- [ ] Make imports from `preact/hooks` work (See [#1](https://github.com/sventschui/snowpack-preact/pull/1))
+- [ ] Make imports from `preact/hooks` work
 - [ ] Create a preact template
