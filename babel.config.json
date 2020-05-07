@@ -1,0 +1,12 @@
+{
+    "presets": [["@babel/preset-react", {
+        "pragma": "h",
+        "pragmaFrag": "Fragment"
+    }]],
+    "plugins": [
+      ["@babel/plugin-syntax-import-meta"],
+      "@snowpack/babel-plugin-asset-import",
+      "babel-plugin-macros"
+    ]
+  }
+  
